@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Default suite]" duration-ms="2094" started-at="2021-10-20T10:47:35Z" finished-at="2021-10-20T10:47:37Z">
+    <groups>
+    </groups>
+    <test name="Default test(failed)" duration-ms="2094" started-at="2021-10-20T10:47:35Z" finished-at="2021-10-20T10:47:37Z">
+      <class name="com.dataprovider.ExcelRead">
+        <test-method status="PASS" signature="tc_01(double, double)[pri:0, instance:com.dataprovider.ExcelRead@3159c4b8]" name="tc_01" duration-ms="30" started-at="2021-10-20T10:47:37Z" data-provider="Number Data" finished-at="2021-10-20T10:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[61.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="tc_01(double, double)[pri:0, instance:com.dataprovider.ExcelRead@3159c4b8]" name="tc_01" duration-ms="5" started-at="2021-10-20T10:47:37Z" data-provider="Number Data" finished-at="2021-10-20T10:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="tc_01(double, double)[pri:0, instance:com.dataprovider.ExcelRead@3159c4b8]" name="tc_01" duration-ms="3" started-at="2021-10-20T10:47:37Z" data-provider="Number Data" finished-at="2021-10-20T10:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[41.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="tc_01(double, double)[pri:0, instance:com.dataprovider.ExcelRead@3159c4b8]" name="tc_01" duration-ms="7" started-at="2021-10-20T10:47:37Z" data-provider="Number Data" finished-at="2021-10-20T10:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[17.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="tc_01(double, double)[pri:0, instance:com.dataprovider.ExcelRead@3159c4b8]" name="tc_01" duration-ms="3" started-at="2021-10-20T10:47:37Z" data-provider="Number Data" finished-at="2021-10-20T10:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+      </class> <!-- com.dataprovider.ExcelRead -->
+    </test> <!-- Default test(failed) -->
+  </suite> <!-- Failed suite [Default suite] -->
+</testng-results>
